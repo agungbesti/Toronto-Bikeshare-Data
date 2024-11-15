@@ -1,4 +1,4 @@
-# Toronto-Bikeshare-Data (Project from DTS)
+# Toronto-Bikeshare-Data
 
 ## Information Obtained :
 ### 1. Are bikeshare users would travel in the reverse direction in the evening than in the morning?
